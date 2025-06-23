@@ -19,7 +19,7 @@ If you found this GitHub page helpful, please cite the following papers:
 ```
 @article{rekavandi2025rs,
   title={Can Deep Learning Models Acquire Specialist Knowledge? Identifying Carotid Bruits in Type 2 Diabetes Using an Electronic Stethoscope},
-  author={Miri Rekavandi, Aref Miri and Bennamoun, Mohammed and Boussaid, Farid and Davis, Wendy A. and Davis, Timothy M.E.},
+  author={Miri Rekavandi, Aref and Bennamoun, Mohammed and Boussaid, Farid and Davis, Wendy A. and Davis, Timothy M.E.},
   journal={IEEE ACCESS},
   year={2025}
 }
