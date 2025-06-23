@@ -2,7 +2,7 @@
 ## Published in IEEE ACCESS
 
 ## Overview
-This GitHub repository was established to present the results of
+This GitHub repository was established to present the results of our exploration on the potential of artificial intelligence as a substitute for trained clinician identification of a carotid bruit from multiple auditory recordings using an electronic stethoscope in 98 people with type 2 diabetes, 48 of whom had a bruit.
 
 ## Project Structure
 
