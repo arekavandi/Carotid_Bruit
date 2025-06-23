@@ -1,6 +1,9 @@
 # Can Deep Learning Models Acquire Specialist Knowledge? Identifying Carotid Bruits in Type 2 Diabetes Using an Electronic Stethoscope
 ## Published in IEEE ACCESS
 
+## Overview
+This GitHub repository was established to present the results of
+
 ## Project Structure
 
 The repository is organized as follows:
